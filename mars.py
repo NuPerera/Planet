@@ -1,2 +1,2 @@
-Cold and dry, but everything is my favorite color
+marsdata<-read.csv)"marsdata.text")
 
